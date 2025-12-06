@@ -1,0 +1,9 @@
+The SQL connection was giving error and saying it needed crytograpy and pymysql module.
+
+I had to flush priveledges from SQLWorkbench to override that:
+
+```
+ALTER USER 'root'@'localhost'
+IDENTIFIED WITH mysql_native_password BY 'workbench2025';
+FLUSH PRIVILEGES;
+```

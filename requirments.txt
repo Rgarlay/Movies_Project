@@ -1,0 +1,9 @@
+uv
+dotenv
+pandas
+requests
+SQLAlchemy
+ipykernel
+pymysql
+numpy
+-e . 
