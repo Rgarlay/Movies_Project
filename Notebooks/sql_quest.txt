@@ -1,0 +1,40 @@
+10:31AM - 11:31AM
+
+
+
+
+Do users with higher watch_time tend to upgrade more?
+
+What is the churn rate (did_change_plan = 0) across the platform?
+
+How many users downgraded (new plan cheaper than old)?
+
+Which age_group watches the most content on average?
+
+What percentage of users have extreme high watch_time (top 10%)?
+
+Which plan has the highest average watch_time?
+
+What is the revenue impact of all upgrades combined?
+
+Which user segments (age_group × subscription_plan) show highest upgrade likelihood?
+
+Which users have inconsistent data (same old and new subscription plan but marked upgrade_or_not = 1)?
+
+Identify users with zero watch_time but paid Premium (anomaly detection).
+
+What is the distribution of user watch_time (min, max, quartiles)?
+
+Which combination of age_group and new_subscription_plan generates the most revenue?
+
+How many users changed plans but did not upgrade (plan switchers)?
+
+What is the average upgrade_time or upgrade_delay (if timestamps exist)?
+
+What percentage of users were active (positive watch_time) but did not upgrade?
+
+What is the most common transition: Free → Basic, Basic → Premium, etc?
+
+Which groups show the highest potential revenue if they upgraded (heavy watchers who haven't upgraded)?
+
+How many unique users belong to each (age_group × subscription_plan × change_status) segment?
